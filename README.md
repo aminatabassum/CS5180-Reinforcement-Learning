@@ -1,1 +1,2 @@
-# CS5180-RL
+# CS5180-Reinforcement Learning 
+Instructor : Chris Amato 
